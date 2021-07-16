@@ -1,0 +1,14 @@
+<div class="banner-component">
+  <div *ngIf="shared.banners.length==0">
+    <ion-skeleton-text animated style="height: 211px;">
+    </ion-skeleton-text>
+  </div>
+
+  <div>
+    <ion-slides pager="true" [options]="slideOpts" [class]="config.bannerStyle" #bannerslide autoplay="3000" loop="true" (ionSlideDrag)="slideChange($event)">
+      <ion-slide *ngFor="let b of shared.banners" class="ion-no-padding animate-item" (click)="bannerClick(b)">
+        <img src="{{config.imgUrl+b.image}}">
+      </ion-slide>
+    </ion-slides>
+  </div>
+</div>

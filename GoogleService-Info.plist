@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>719512729573-28ib5m6s60sg3ta30617oqap59ae7rlf.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.719512729573-28ib5m6s60sg3ta30617oqap59ae7rlf</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>719512729573-ksbg4mdc4lrfsv7amuoe7dcbfo0jhj9v.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCM_Fe7jiYa0XO5Llo90eDGOzmSN3kbbV4</string>
+	<key>GCM_SENDER_ID</key>
+	<string>719512729573</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.brickcity.eshop</string>
+	<key>PROJECT_ID</key>
+	<string>brickcity-eshop</string>
+	<key>STORAGE_BUCKET</key>
+	<string>brickcity-eshop.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:719512729573:ios:5839fbb3c89d2c68c3e10c</string>
+	<key>DATABASE_URL</key>
+	<string>https://brickcity-eshop.firebaseio.com</string>
+</dict>
+</plist>

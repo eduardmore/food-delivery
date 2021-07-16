@@ -1,0 +1,63 @@
+{
+  "project_info": {
+    "project_number": "719512729573",
+    "firebase_url": "https://brickcity-eshop.firebaseio.com",
+    "project_id": "brickcity-eshop",
+    "storage_bucket": "brickcity-eshop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:719512729573:android:77ef3139d916b7a9c3e10c",
+        "android_client_info": {
+          "package_name": "com.brickcity.eshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "719512729573-330cqkr5q2s7uhtms0r08jgho3em8251.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brickcity.eshop",
+            "certificate_hash": "7710100fa9f7db3fa6d10f4cc64458a0e0680b62"
+          }
+        },
+        {
+          "client_id": "719512729573-911a7f8etfc0of6gmp6sn4amis8gvjcq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.brickcity.eshop",
+            "certificate_hash": "feb18a54e0c023e3172d148b8b44d03bd39a4812"
+          }
+        },
+        {
+          "client_id": "719512729573-ap9oc0rttdse7ei2r5bq4pp2d3b5diqi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBU4hzMHYDR3-ILielzmQaH1jRHOnHRv7w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "719512729573-ap9oc0rttdse7ei2r5bq4pp2d3b5diqi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "719512729573-28ib5m6s60sg3ta30617oqap59ae7rlf.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.brickcity.eshop"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
